@@ -1,0 +1,8 @@
+/bin/
+/out/
+/lib/
+/target/
+/sql/*.sqlite.tmp
+/src/main/resources/hibernate.cfg.xml
+/.idea/workspace.xml
+/scripts/
